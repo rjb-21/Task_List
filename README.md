@@ -3,11 +3,17 @@ To run the script, type in the Terminal:
 1. "python"
 2. "import task_list"
 3. The following options are now available:
+
 	a. "task_list.create_db()" - This function create new database of tasks (id, name, deadline, description).
+	
 	b. "task_list.add('name', 'deadline', 'description')" - This function add new task to the db. Please insert name, deadline and description.
+	
 	c. "task_list.list()" - This function list all elements from db.
+	
 	d. "task_list.remove(task_id)" - This function remove task by id. Please insert id number.
+	
 	e. "task_list.remove_hash(name_hash)" - This function remove task by hash value of name (hash(name) function). Please insert name hash value.
+	
 	f. "task_list.update(task_id, 'name', 'deadline', 'description')" - This function update task in db. Please insert id number and new name, deadline, description.
 
 
