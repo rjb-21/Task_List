@@ -40,4 +40,4 @@ For exaple:
    OUTPUT: 
 
 8.  INPUT: task_list.remove_hash(3617018932930217536)
-    OUTPUT: 
+   	 OUTPUT: 
