@@ -31,13 +31,13 @@ For exaple:
    OUTPUT:
 
 5. INPUT: task_list.list()
-   OUTPUT: Id: 1, Name: Running, Deadline: 02-01-2021, Description: Run 10 km
+   OUTPUT: Id: 1, Name: running, Deadline: 02-01-2021, Description: Run 10 km
 
-6. INPUT: task_list.update(1, 'Running', '03-01-2021', 'Run 15 km') 
+6. INPUT: task_list.update(1, 'running', '03-01-2021', 'Run 15 km') 
    OUTPUT:
 
 7. INPUT: task_list.remove(1)
    OUTPUT: 
 
-8.  INPUT: task_list.remove_hash(-2454376813570169456)
-	OUTPUT: 
+8.  INPUT: task_list.remove_hash(3617018932930217536)
+    OUTPUT: 
